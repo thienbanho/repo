@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/about', (req, res) => {
-    res.send('<h1>HCMUS</h1>')
+    res.send('<h1>HCMUS@IT</h1>')
 })
 
 
